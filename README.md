@@ -23,7 +23,7 @@ Competitive programming project exploring core concepts of CP like complexity an
 
 ### Week 2: Two Pointer & Sliding Window Techniques
 <details>
-<summary><b>Click to expand Week 2 Problems (15 solved)</b></summary>
+<summary><b>Click to expand Week 2 Problems (14 solved)</b></summary>
 
 * [Problem A: Points and Minimum Distance](Week2/points_and_minimum_distance.cpp)
 * [Problem B: Basketball Together](Week2/basketball_together.cpp)
@@ -44,7 +44,7 @@ Competitive programming project exploring core concepts of CP like complexity an
 
 ### Week 3: Greedy Algorithms & Kadane's Algorithm
 <details>
-<summary><b>Click to expand Week 3 Problems (15 solved)</b></summary>
+<summary><b>Click to expand Week 3 Problems(13 solved)</b></summary>
 
 * [Problem A: Stone Game](Week3/stone_game.cpp)
 * [Problem B: Odd Subarrays](Week3/odd_subarrays.cpp)
@@ -63,7 +63,7 @@ Competitive programming project exploring core concepts of CP like complexity an
 
 ### Week 4: Recursion & Dynamic Programming
 <details>
-<summary><b>Click to expand Week 4 Problems (15 solved)</b></summary>
+<summary><b>Click to expand Week 4 Problems (11 solved)</b></summary>
 
 * [Problem A: k-Tree](Week4/k_tree.cpp)
 * [Problem B: Flowers](Week4/flowers.cpp)
